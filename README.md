@@ -15,4 +15,4 @@ move to your `/usr/share/theme/Artix-dark/gtk-3.0/` folder and replace the old g
 # Changes need to be made
 - Fix gradient window frame
 - Fix gradient buttons
-- Think of a color to replace the color text entry box 
+- Fix text entry box
