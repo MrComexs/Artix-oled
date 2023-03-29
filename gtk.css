@@ -2205,7 +2205,7 @@ notebook {
     border: 1px solid #171819;
     border-radius: 2px; }
   notebook > stack:not(:only-child) {
-    background-color: #080808; }
+    background-color: #000000; }
   notebook > header {
     background-color: #2a2a2b; }
     notebook > header.top {
